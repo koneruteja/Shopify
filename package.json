@@ -1,0 +1,19 @@
+{
+  "name": "shopify",
+  "version": "1.0.0",
+  "description": "E-commerce platform that uses Redux to manage global state and Stripe API is used for payment transactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koneruteja/Shopify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koneruteja/Shopify/issues"
+  },
+  "homepage": "https://github.com/koneruteja/Shopify#readme"
+}
