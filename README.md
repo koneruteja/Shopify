@@ -26,3 +26,5 @@ heroku create
 git push heroku master
 
 Copy the URl that says heroku app at the end and paste it in the your browser.  
+
+app url https://obscure-earth-26393.herokuapp.com/
